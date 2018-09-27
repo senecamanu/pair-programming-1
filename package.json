@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/senecamanu/pair-programming-1#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.3",
+    "nodemon": "^1.18.4",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
     "sequelize": "^4.39.0"
